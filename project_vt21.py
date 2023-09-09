@@ -8,7 +8,7 @@ import re
 # The function returns which checks which Swedish words
 # can have both neuters.                                                                      
 def find_neuter():
-    directory = 'example.txt'
+    directory = 'home/example_dir/example_county.tag.gz'
     # Creating two lists to later compare.
     counties = {}
 
