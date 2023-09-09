@@ -6,8 +6,13 @@ Looking back, there are alot of improvements to be made, but I have my hands ful
 
 Some refactoring to be made:
 -Renaming variables for clearity.
+
 -Adding docstrings.
+
 -Removing and clarifying comments.
+
 -Shortening and removing reduncance.
+
 -Probably more things I can't think of right now.
+
 
