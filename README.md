@@ -5,6 +5,7 @@ My first big project from last year. As a part of an introductory university cou
 Looking back, there are alot of improvements to be made, but I have my hands full at the time.
 
 Some refactoring to be made:
+
 -Renaming variables for clearity.
 
 -Adding docstrings.
